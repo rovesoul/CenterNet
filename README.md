@@ -140,3 +140,5 @@ If you find this project useful for your research, please use the following BibT
       booktitle={arXiv preprint arXiv:1904.07850},
       year={2019}
     }
+
+[中文博客翻译地址](https://oldpan.me/archives/anchor-free-ture-centernet)
